@@ -11,12 +11,8 @@
 <br/>
 
 <img src="gif1.gif" width="300" alt="Gif Comiendo" />
-<img src="gif2.gif" width="300" alt="Gif Estudiando" />
 
 <br/>
-
-meow <3
-
 <br/>
 
 <details>
