@@ -32,7 +32,7 @@
 <br/>
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,gamemaker,postgres,arduino,git,ps,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c#,python,js,html,css,bootstrap,gamemaker,postgres,arduino,git,ps,figma&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -44,23 +44,11 @@
 <a href="https://www.linkedin.com/in/jose-juan-olvera-martinez">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://discord.com/users/JoseJuanOM">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 
 <br/>
 
 <a href="#"> 
   <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Carrd-235298?style=for-the-badge&logo=carrd&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Rentry-Co-lightgrey?style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 
 </details>
