@@ -16,7 +16,7 @@
 
 <details>
 <summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
-    <b>▶ more info</b>
+    <b>more info</b>
 </summary>
 
 <br>
@@ -32,7 +32,7 @@
 <br/>
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,python,js,html,css,postgres,git,mysql,supabase,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,cpp,c,cs,js,html,css,postgres,mysql,supabase,git&theme=dark)](https://skillicons.dev)
 
 <br/>
 
