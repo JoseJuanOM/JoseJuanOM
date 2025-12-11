@@ -16,7 +16,7 @@
 
 <details>
 <summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
-    <b>▶ more info</b>
+    <b>more info</b>
 </summary>
 
 <br>
