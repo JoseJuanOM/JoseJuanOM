@@ -1,20 +1,30 @@
 <div align="center">
-
-  <h3>システムアナリスト (Analista de Sistemas)</h3>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=1000&color=33EBFF&center=true&vCenter=true&width=435&lines=Hola,+mi+nombre+es+Alex;Bienvenido+a+mi+repositorio;Me+gusta+el+codigo+y+el+cafe" alt="Typing SVG" />
-  </a>
+  <details>
+    <summary>
+      <img src="https://img.shields.io/badge/More%20Info-Click%20Me-blue?style=for-the-badge&logo=github" alt="More Info Button">
+    </summary>
+    
+    <br>
+    
+    <table>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+        </td>
+      </tr>
+    </table>
 
-  <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night" width="800" />
+    
+    <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO-AQUI&style=flat-square&color=blue" alt="Profile views" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,postgres,arduino,git,ps,figma&theme=dark" />
+    </a>
 
-  <br/><br/>
-
-  <img src="https://i.pinimg.com/originals/f3/04/a1/f304a1b02747e9306b325255447a4628.gif" width="250" />
-
-  <br/>
-  <p>meow <3</p>
-
-</div>
+  </details>
+  </div>
