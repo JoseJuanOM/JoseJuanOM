@@ -10,10 +10,6 @@
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseJuanOM&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="trophy" />
-</a>
-
 <br/>
 
 <img src="gif1.gif" width="300" alt="Gif Comiendo" />
