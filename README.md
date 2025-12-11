@@ -3,7 +3,7 @@
   <h3>システムアナリスト (Computer Science Ingenieer)</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=33EBFF&center=true&vCenter=true&width=435&lines=Hola,+soy+un+Desarrollador;Bienvenido+a+mi+perfil;Me+gusta+crear+cosas+increibles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=33EBFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Developer;Wellcome+to+my+profile;I+like+to+create+amaizing+things" alt="Typing SVG" />
   </a>
 
   <br/>
