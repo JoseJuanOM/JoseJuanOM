@@ -1,6 +1,6 @@
 <div align="center">
 
-### Computer Science Engineer
+### システムアナリスト (Computer Science Engineer)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=33EBFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Developer;Welcome+to+my+profile;I+like+to+create+amazing+things)](https://git.io/typing-svg)
 
@@ -21,7 +21,9 @@
 
 <br>
 
-<img src="https://metrics.lecoq.io/JoseJuanOM?template=classic&base=header,repositories&plugin_languages=yes&config.timezone=America%2FMexico_City" alt="GitHub Metrics" width="100%" />
+| Stats | Lenguajes (Por Repos) |
+| :---: | :---: |
+| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseJuanOM&theme=tokyonight) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseJuanOM&theme=tokyonight) |
 
 <br/>
 
@@ -47,6 +49,13 @@
 </a>
 
 <br/>
+
+</details>
+
+---
+<sub><i>Thanks for view my profile</i></sub>
+
+</div>
 
 </details>
 
