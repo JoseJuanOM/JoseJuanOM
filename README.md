@@ -1,34 +1,5 @@
 <div align="center">
 
-### Computer Science Engineer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=33EBFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Developer;Welcome+to+my+profile;I+like+to+create+amazing+things)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=JoseJuanOM&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
-
-<br/>
-
-<br/>
-
-<img src="gif1.gif" width="300" alt="Gif Comiendo" />
-
-<br/>
-
-<details>
-<summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
-    <b>more info</b>
-</summary>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseJuanOM&theme=2077" alt="Profile Details" />
-</p>
-
-<p align="center"><div align="center">
-
 ### システムアナリスト (Computer Science Engineer)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=33EBFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Developer;Welcome+to+my+profile;I+like+to+create+amazing+things)](https://git.io/typing-svg)
@@ -45,7 +16,7 @@
 
 <details>
 <summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
-    <b>▶ more info</b>
+    <b>more info</b>
 </summary>
 
 <br>
@@ -83,5 +54,5 @@
 
 ---
 <sub><i>Thanks for view my profile</i></sub>
----
+
 </div>
