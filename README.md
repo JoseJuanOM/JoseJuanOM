@@ -8,7 +8,6 @@
   <br/><br/>
   <img src="gif1.gif" width="300" alt="Gif Comiendo" />
   <br/>
-  <img src="gif2.gif" width="300" alt="Gif Estudiando" />
   <br/>
   <br/>
   <details>
