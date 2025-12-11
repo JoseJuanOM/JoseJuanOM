@@ -32,7 +32,7 @@
 <br/>
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,gamemaker,postgres,arduino,git,ps,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,python,js,html,css,postgres,git,mysql,supabase,&theme=dark)](https://skillicons.dev)
 
 <br/>
 
