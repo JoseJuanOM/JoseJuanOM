@@ -60,6 +60,3 @@
 </details>
 
 ---
-<sub><i>Thanks for view my profile</i></sub>
-
-</div>
