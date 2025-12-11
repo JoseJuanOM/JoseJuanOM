@@ -58,23 +58,13 @@
 
     <h3>Connect with me</h3>
     <p>
-      <a href="mailto:TU_CORREO@GMAIL.COM">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://instagram.com/JoseJuanOM">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      <a href="https://discord.com/users/JoseJuanOM">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-      </a>
-      <a href="https://linkedin.com/in/JoseJuanOM">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
+      <a href="mailto:TU_CORREO@GMAIL.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://instagram.com/JoseJuanOM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <a href="https://discord.com/users/JoseJuanOM"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/JoseJuanOM"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </p>
 
-    <p>
-      <code>rentry</code> + <code>linktr.ee</code> + <code>carrd.co</code> + <code>notion</code>
-    </p>
+    <p><code>rentry</code> + <code>linktr.ee</code> + <code>carrd.co</code> + <code>notion</code></p>
     <br/>
 
   </details>
