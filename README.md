@@ -16,14 +16,14 @@
 
 <details>
 <summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
-    <b>more info</b>
+    <b>▶ more info</b>
 </summary>
 
 <br>
 
-| Stats | Lenguajes |
+| Stats | Lenguajes (Por Repos) |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseJuanOM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJuanOM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117) |
+| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseJuanOM&theme=tokyonight) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseJuanOM&theme=tokyonight) |
 
 <br/>
 
@@ -49,8 +49,6 @@
 </a>
 
 <br/>
-
-
 
 </details>
 
