@@ -10,6 +10,12 @@
 
 <br/>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseJuanOM&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="trophy" />
+</a>
+
+<br/>
+
 <img src="gif1.gif" width="300" alt="Gif Comiendo" />
 
 <br/>
@@ -21,13 +27,18 @@
 
 <br>
 
-| Stats | Lenguajes (Por Repos) |
-| :---: | :---: |
-| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseJuanOM&theme=tokyonight) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseJuanOM&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseJuanOM&theme=2077" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseJuanOM&theme=2077" alt="Language Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseJuanOM&theme=2077" alt="Productive Time" />
+</p>
 
 <br/>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoseJuanOM&theme=tokyonight&hide_border=true&background=0D1117)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoseJuanOM&theme=radical&hide_border=true&background=0D1117)
 
 <br/>
 
@@ -56,7 +67,3 @@
 <sub><i>Thanks for view my profile</i></sub>
 
 </div>
-
-</details>
-
----
