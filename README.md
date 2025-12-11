@@ -13,7 +13,6 @@
 <img src="gif1.gif" width="300" alt="Gif Comiendo" />
 
 <br/>
-<br/>
 
 <details>
 <summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
@@ -42,16 +41,10 @@
 <br/>
 
 ### Connect with me
-<a href="mailto:TU_CORREO@GMAIL.COM">
+<a href="mailto:jjuanom@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/JoseJuanOM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://discord.com/users/JoseJuanOM">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/JoseJuanOM">
+<a href="https://www.linkedin.com/in/jose-juan-olvera-martinez">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
