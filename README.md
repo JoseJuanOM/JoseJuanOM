@@ -1,12 +1,16 @@
 <div align="center">
+
   <h3>システムアナリスト (Computer Science Engineer)</h3>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=33EBFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Developer;Welcome+to+my+profile;I+like+to+create+amazing+things" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=JoseJuanOM&style=flat-square&color=blue" alt="Profile views" />
   <br/><br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4ZGI2NjI5NmIyNzQ2ODQ4M2Q4ZGI2NjI5NmIyNzQ2ODQ4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/13CoXDiaCcCoyk/giphy.gif" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZzcWV2ZXcyaHNmazR1NmNpdXdoZzljZzY4dmU1dGJwdnVtbzFncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1IHLmgfgOAHRHQ3L2Q/giphy.gif" width="350" />
+  <br/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxjeXFtN3FjZXhqZ3ptdGdhbHZmemc4MzIydHNreGQ2eHpsNXV3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2p3NAfLYBLFQ8ogcKu/giphy.gif" width="350" />
   <br/>
   <details>
     <summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
@@ -53,5 +57,6 @@
     <br/>
   </details>
   <hr/>
-  <sub><i>Gracias por visitar mi perfil</i></sub>
+  <sub><i>Thanks for view my profile</i></sub>
+
 </div>
