@@ -26,16 +26,16 @@
     <table align="center">
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <img src="https://github-readme-stats.vercel.app/api?username=JoseJuanOM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJuanOM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </td>
       </tr>
     </table>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseJuanOM&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseJuanOM&theme=tokyonight&hide_border=true&background=0D1117" />
     <br/><br/>
     <h3>Tech Stack</h3>
     <a href="https://skillicons.dev">
