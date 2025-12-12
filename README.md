@@ -14,21 +14,6 @@
 
 <br/>
 
-<details>
-<summary style="cursor: pointer; font-size: 1.2em; color: #33EBFF;">
-    <b>more info</b>
-</summary>
-
-<br>
-
-| Stats | Lenguajes (Por Repos) |
-| :---: | :---: |
-| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseJuanOM&theme=tokyonight) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseJuanOM&theme=tokyonight) |
-
-<br/>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoseJuanOM&theme=tokyonight&hide_border=true&background=0D1117)
-
 <br/>
 
 ### Tech Stack
